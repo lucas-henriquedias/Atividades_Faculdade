@@ -1,4 +1,4 @@
-''' 6. Escreva um programa que leia do console os 3 parâmetros
+''' 1. Escreva um programa que leia do console os 3 parâmetros
 de uma equação de segundo grau do tipo ax^2+bx+c=0 e calcule as
 raízes, conforme fluxograma e fórmulas da página seguinte.'''
 

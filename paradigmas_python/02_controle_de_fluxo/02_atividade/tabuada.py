@@ -1,4 +1,4 @@
-''' 7. Faça um programa que calcule e imprima a tabuada do 0 
+''' 2. Faça um programa que calcule e imprima a tabuada do 0 
 ao 10, no formato de tabela.'''
 
 import time

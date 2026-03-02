@@ -1,13 +1,17 @@
-''' 11. Escreva um programa que calcule os N primeiros números primos 
+''' 6. Escreva um programa que calcule os N primeiros números primos 
 e retorne em uma lista.'''
 
 def eh_primo(n):
+
     if n < 2:
         return False
+    
     for i in range(2, int(n**0.5) + 1):
         if n % i == 0:
             return False
+        
     return True
+
 
 def main():
     try:
@@ -29,6 +33,7 @@ def main():
         
     except ValueError:
         print("Erro! Digite um número inteiro válido.")
+
 
 if __name__ == "__main__":
     main()
