@@ -16,7 +16,9 @@ Período: 2025 - 2029</p>
 <h3>🧩 Disciplinas Incluídas</h3>
 <p> - Introdução a Programação em C.<br>
   - Paradigmas de Linguagem em Python.<br>
-  - Fundamentos de Redes de Computadores.</p>
+  - Fundamentos de Redes de Computadores.<br>
+  - Banco de Dados.
+</p>
 
 <h3>🎯 Objetivos do Repositório</h3>
 <p>  - <strong>Organização:</strong> Manter todos os materiais acadêmicos em um único local.<br>
