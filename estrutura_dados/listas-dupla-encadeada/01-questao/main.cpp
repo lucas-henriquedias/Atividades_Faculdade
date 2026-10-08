@@ -26,7 +26,7 @@ int main () {
     inserirValor(pontoZero, 5070);
     inserirValor(pontoZero, 50999);
  
-    imprimirValor(pontoZero);
+    imprimirValor(pontoZero); 
 
     return 0;
 }
